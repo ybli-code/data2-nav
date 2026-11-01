@@ -1,11 +1,147 @@
 [
-  {"id":"data2","name":"data2 数据集","url":"https://www.data2.cn/","description":"发现、下载与分享 YOLO 视觉数据集，让模型训练从好数据开始。","category":"数据资源","icon":"D2","color":"blue","tags":["YOLO","目标检测","数据集"],"featured":true,"status":"已核验","repo":"https://github.com/ybli-code/awesome-yolo-datasets","repoLabel":"我的数据集仓库"},
-  {"id":"search","name":"数据集智能检索","url":"https://search.data2.cn/","description":"用自然语言描述需求，查找匹配的数据集与下载线索。","category":"数据资源","icon":"⌕","color":"teal","tags":["AI 搜索","数据发现"],"featured":true,"status":"访问待核验"},
-  {"id":"lab","name":"科学实验室","url":"https://lab.data2.cn/","description":"54 门物理、化学、生物与地理 3D 课件，在线动手探索科学原理。","category":"AI 与教学","icon":"◉","color":"orange","tags":["3D 交互","科学实验","CC BY-NC"],"featured":true,"status":"已核验","repo":"https://github.com/ybli-code/tongjiang-lab","repoLabel":"我的 Fork","upstream":"https://github.com/smithjohn78390/tongjiang-lab"},
-  {"id":"aibuddy","name":"AI 学伴","url":"https://aibuddy.top/","description":"面向学习场景的 AI 学伴，提供智能问答与学习辅助入口。","category":"AI 与教学","icon":"✳","color":"purple","tags":["AI 学习","智能问答"],"status":"已核验"},
-  {"id":"class","name":"DeepTutor 课堂","url":"https://class.aibuddy.top/","description":"基于 DeepTutor 的 AI 教学课堂，为教师与学生提供学习入口。","category":"AI 与教学","icon":"▤","color":"blue","tags":["课堂教学","需登录","DeepTutor"],"status":"已核验","repo":"https://github.com/ybli-code/DeepTutor","repoLabel":"我的基础项目 Fork","upstream":"https://github.com/HKUDS/DeepTutor"},
-  {"id":"deep-learning","name":"深度学习资源库","url":"https://dl.estart.top/","description":"汇集深度学习相关学习资料，方便按需查阅与学习。","category":"AI 与教学","icon":"⌘","color":"teal","tags":["深度学习","学习资料"],"status":"已核验","repo":"https://github.com/ybli-code/deep-learning","repoLabel":"我的源码"},
-  {"id":"estab","name":"易始新标签页","url":"https://www.estart.top/","description":"简约、高效的新标签页，让常用网址与日常浏览触手可及。","category":"效率工具","icon":"↗","color":"orange","tags":["浏览器起始页","效率"],"status":"已核验","repo":"https://github.com/ybli-code/esTab","repoLabel":"我的源码"},
-  {"id":"forums","name":"data2 社区","url":"https://www.data2.cn/forums/","description":"围绕数据集与 AI 实践交流经验，发现问题、思路和同行。","category":"数据资源","icon":"◌","color":"purple","tags":["交流社区","AI 实践"],"status":"已核验"},
-  {"id":"quiz","name":"心晴测 · H5","url":"https://food-psych-quiz.vercel.app/","description":"心理测评项目的旧版 H5 入口，当前源码已转为微信小程序。","category":"生活应用","icon":"♡","color":"rose","tags":["心理测评","旧版 H5"],"status":"访问待核验","repo":"https://github.com/ybli-code/food-psych-quiz","repoLabel":"我的源码"}
+  {
+    "id": "data2",
+    "name": "data2 数据集",
+    "url": "https://www.data2.cn/",
+    "description": "发现、下载与分享 YOLO 视觉数据集，让模型训练从好数据开始。",
+    "category": "数据资源",
+    "icon": "D2",
+    "color": "blue",
+    "tags": [
+      "YOLO",
+      "目标检测",
+      "数据集"
+    ],
+    "featured": true,
+    "status": "已核验",
+    "repo": "https://github.com/ybli-code/awesome-yolo-datasets",
+    "repoLabel": "我的数据集仓库"
+  },
+  {
+    "id": "search",
+    "name": "数据集智能检索",
+    "url": "https://search.data2.cn/",
+    "description": "用自然语言描述需求，查找匹配的数据集与下载线索。",
+    "category": "数据资源",
+    "icon": "⌕",
+    "color": "teal",
+    "tags": [
+      "AI 搜索",
+      "数据发现"
+    ],
+    "featured": true,
+    "status": "已核验"
+  },
+  {
+    "id": "lab",
+    "name": "科学实验室",
+    "url": "https://lab.data2.cn/",
+    "description": "54 门物理、化学、生物与地理 3D 课件，在线动手探索科学原理。",
+    "category": "AI 与教学",
+    "icon": "◉",
+    "color": "orange",
+    "tags": [
+      "3D 交互",
+      "科学实验",
+      "CC BY-NC"
+    ],
+    "featured": true,
+    "status": "已核验",
+    "repo": "https://github.com/ybli-code/tongjiang-lab",
+    "repoLabel": "我的 Fork",
+    "upstream": "https://github.com/smithjohn78390/tongjiang-lab"
+  },
+  {
+    "id": "aibuddy",
+    "name": "AI 学伴",
+    "url": "https://aibuddy.top/",
+    "description": "面向学习场景的 AI 学伴，提供智能问答与学习辅助入口。",
+    "category": "AI 与教学",
+    "icon": "✳",
+    "color": "purple",
+    "tags": [
+      "AI 学习",
+      "智能问答"
+    ],
+    "status": "已核验"
+  },
+  {
+    "id": "class",
+    "name": "DeepTutor 课堂",
+    "url": "https://class.aibuddy.top/",
+    "description": "基于 DeepTutor 的 AI 教学课堂，为教师与学生提供学习入口。",
+    "category": "AI 与教学",
+    "icon": "▤",
+    "color": "blue",
+    "tags": [
+      "课堂教学",
+      "需登录",
+      "DeepTutor"
+    ],
+    "status": "已核验",
+    "repo": "https://github.com/ybli-code/DeepTutor",
+    "repoLabel": "我的基础项目 Fork",
+    "upstream": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "id": "deep-learning",
+    "name": "深度学习资源库",
+    "url": "https://dl.estart.top/",
+    "description": "汇集深度学习相关学习资料，方便按需查阅与学习。",
+    "category": "AI 与教学",
+    "icon": "⌘",
+    "color": "teal",
+    "tags": [
+      "深度学习",
+      "学习资料"
+    ],
+    "status": "已核验",
+    "repo": "https://github.com/ybli-code/deep-learning",
+    "repoLabel": "我的源码"
+  },
+  {
+    "id": "estab",
+    "name": "易始新标签页",
+    "url": "https://www.estart.top/",
+    "description": "简约、高效的新标签页，让常用网址与日常浏览触手可及。",
+    "category": "效率工具",
+    "icon": "↗",
+    "color": "orange",
+    "tags": [
+      "浏览器起始页",
+      "效率"
+    ],
+    "status": "已核验",
+    "repo": "https://github.com/ybli-code/esTab",
+    "repoLabel": "我的源码"
+  },
+  {
+    "id": "forums",
+    "name": "data2 社区",
+    "url": "https://www.data2.cn/forums/",
+    "description": "围绕数据集与 AI 实践交流经验，发现问题、思路和同行。",
+    "category": "数据资源",
+    "icon": "◌",
+    "color": "purple",
+    "tags": [
+      "交流社区",
+      "AI 实践"
+    ],
+    "status": "已核验"
+  },
+  {
+    "id": "quiz",
+    "name": "心晴测 · 开源项目",
+    "url": "https://github.com/ybli-code/food-psych-quiz",
+    "description": "微信心理测评小程序，包含量表、计分报告与本地历史记录。",
+    "category": "生活应用",
+    "icon": "♡",
+    "color": "rose",
+    "tags": [
+      "微信小程序",
+      "开源项目"
+    ],
+    "status": "已核验",
+    "kind": "project"
+  }
 ]
