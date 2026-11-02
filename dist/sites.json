@@ -146,20 +146,5 @@
       "AI 实践"
     ],
     "status": "已核验"
-  },
-  {
-    "id": "quiz",
-    "name": "心晴测 · 开源项目",
-    "url": "https://github.com/ybli-code/food-psych-quiz",
-    "description": "微信心理测评小程序，包含量表、计分报告与本地历史记录。",
-    "category": "生活应用",
-    "icon": "♡",
-    "color": "rose",
-    "tags": [
-      "微信小程序",
-      "开源项目"
-    ],
-    "status": "已核验",
-    "kind": "project"
   }
 ]
